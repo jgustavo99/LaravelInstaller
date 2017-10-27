@@ -19,7 +19,7 @@
   "require": {},
   "autoload": {
     "psr-4": {
-      "RachidLaasri\\LaravelInstaller\\": "src/"
+      "jgustavo99\\LaravelInstaller\\": "src/"
     },
     "files": [
       "src/Helpers/functions.php"

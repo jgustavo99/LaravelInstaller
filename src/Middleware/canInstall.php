@@ -1,6 +1,6 @@
 <?php
 
-namespace RachidLaasri\LaravelInstaller\Middleware;
+namespace jgustavo99\LaravelInstaller\Middleware;
 
 use Closure;
 use DB;

@@ -1,11 +1,11 @@
 <?php
 
-namespace RachidLaasri\LaravelInstaller\Controllers;
+namespace jgustavo99\LaravelInstaller\Controllers;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use Illuminate\Routing\Redirector;
-use RachidLaasri\LaravelInstaller\Helpers\EnvironmentManager;
+use jgustavo99\LaravelInstaller\Helpers\EnvironmentManager;
 use Validator;
 use Illuminate\Validation\Rule;
 
